@@ -1,0 +1,3 @@
+import { glossary } from '@/lib/guides';
+export const metadata={title:'한·영 용어집'};
+export default function Glossary(){return <><div className="breadcrumb">REFERENCE <span>/</span> 한·영 용어집</div><div className="page-heading"><div className="eyebrow">LOST IN TRANSLATION?</div><h1>이름은 달라도,<br/>같은 모험.</h1><p>한국판에서 확인한 명칭과 영문 공략의 이름을 연결합니다.</p></div><div className="table-wrap"><table><thead><tr><th>한국 이름</th><th>영문 이름</th><th>설명</th></tr></thead><tbody>{glossary.map(([ko,en,note])=><tr key={en}><td>{ko}</td><td>{en}</td><td>{note}</td></tr>)}</tbody></table></div><p className="small-note">플레이 중 확인한 이름 기준입니다. 미확인 명칭은 임의로 번역하지 않습니다.</p></>;}
