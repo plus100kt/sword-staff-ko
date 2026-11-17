@@ -1,2 +1,23 @@
-export const metadata={title:'출처·운영 안내'};
-export default function About(){return <article className="article about"><div className="eyebrow">ABOUT THIS HANDBOOK</div><h1>한국어로 이어가는<br/>모험 기록.</h1><p className="article-summary">소드노트는 소드 x 스태프를 위한 독립적인 비공식 팬 가이드입니다.</p><section><h2>첫 버전의 범위</h2><p>이 사이트는 Next.js와 React로 새롭게 구현한 가이드 프로젝트입니다. 현재 본문은 독립적으로 작성한 편집 노트이며 Valkyrie 전체 번역본이나 공식 한국어 서비스가 아닙니다.</p><p>가이드 검색, 분류, 글 상세, 이 기기의 저장한 글, 한·영 용어집을 제공합니다. 서버 데이터베이스나 실시간 원문 동기화는 사용하지 않습니다.</p></section><section><h2>원문과 번역의 구분</h2><p>Valkyrie Guild Hub는 사이트 구성의 참고 대상입니다. 각 글은 참고 자료 링크를 제공합니다. 원문 전체 번역·이미지·데이터를 추가할 때는 원저작자의 이용 조건과 허락 범위를 확인하고, 저자와 원문 URL을 함께 기록해야 합니다.</p><a href="https://valkyrie.tips/guides" target="_blank" rel="noreferrer">Valkyrie Guild Hub 방문 ↗</a></section><section><h2>서버·시즌 차이</h2><p>해외 공략과 한국 서버는 출시 시점, 시즌, 아이템 이름이 다를 수 있습니다. 게임 내 수치와 설명을 우선 확인하세요. 편집 노트의 날짜는 원문 갱신 날짜를 의미하지 않습니다.</p></section><section><h2>개인정보</h2><p>회원가입, 광고, 외부 분석 도구는 없습니다. 저장한 글은 현재 브라우저의 로컬 저장소에만 기록되며 다른 기기와 동기화되지 않습니다.</p></section></article>;}
+export const metadata = { title: '출처·운영 안내' };
+
+export default function About() {
+  return <article className="article about">
+    <div className="eyebrow">ABOUT THIS HANDBOOK</div>
+    <h1>해외 공략을 읽고,<br/>한국어로 정리합니다.</h1>
+    <p className="article-summary">소드노트는 소드 x 스태프를 위한 비공식 한국어 팬 가이드입니다.</p>
+    <section><h2>현재 게시물</h2>
+      <p>2026년 11월 17일 확인한 Valkyrie 가이드 목록의 10개 게시물을 주제별 한국어 핵심 정리로 제공합니다. 기존 편집 노트 8개는 게시 목록과 상세 페이지에서 내렸습니다.</p>
+      <p>음식, 시즌 2 준비, 리세마라, 성장 팁, 뽑기·천장, 대보물찾기, 운명의 열매, DPS 테스트, 공허 균열, 파트너 육성을 다룹니다.</p>
+    </section>
+    <section><h2>저자와 원문</h2>
+      <p>Valkyrie에 수록된 각 글의 원문 출처는 EOG.GG입니다. 글마다 원저자, 원문 게시일, 확인일과 직접 원문 링크를 표시합니다. 한국어 본문은 핵심 내용을 선별해 요약·재구성한 글이며, 원문 전문·이미지·실험 표를 그대로 옮긴 전체 번역본은 아닙니다.</p>
+      <a href="https://valkyrie.tips/guides" target="_blank" rel="noreferrer">Valkyrie 가이드 목록 ↗</a>
+    </section>
+    <section><h2>한국 서버에 적용할 때</h2>
+      <p>확률, 천장, 이벤트 회차, 레벨 조건과 직업 평가는 각 원문의 해외판 기준입니다. 한국 서버의 일정·번역·패치와 다를 수 있으므로 게임 내 설명을 먼저 확인하세요. 원문 확인일은 원문 게시일이나 한국판 검증일을 뜻하지 않습니다.</p>
+    </section>
+    <section><h2>저장한 글과 업데이트</h2>
+      <p>게시물은 파일로 관리하며 원문과 실시간으로 동기화하지 않습니다. 북마크는 현재 브라우저에만 저장됩니다. 삭제된 글의 북마크는 목록과 개수에서 제외됩니다. 회원가입, 광고, 외부 분석 도구는 없습니다.</p>
+    </section>
+  </article>;
+}

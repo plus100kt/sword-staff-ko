@@ -1,322 +1,570 @@
 [
   {
-    "slug": "getting-started",
-    "title": "처음 시작하는 모험가를 위한 길잡이",
-    "englishTitle": "Getting started",
-    "category": "초보자",
-    "summary": "매일 할 일과 성장의 방향을 정하고, 다음 전직을 준비하세요.",
-    "tags": [
-      "초반성장",
-      "일일루틴",
-      "전직"
-    ],
-    "featured": true,
-    "minutes": 1,
-    "updated": "2026-11-13",
-    "sections": [
-      {
-        "id": "daily",
-        "title": "오늘의 성장 루틴",
-        "paragraphs": [
-          "게임 내 일일 목록에서 남은 도전과 수령 보상을 먼저 확인하세요. 던전·의뢰·생산시설을 일정한 순서로 살펴보면 빠뜨리는 일이 줄어듭니다."
-        ],
-        "tips": [
-          "부족한 자원과 다음 목표를 하나씩 적어보세요.",
-          "추가 도전 구매는 하루 수입 안에서 유지하세요."
-        ]
-      },
-      {
-        "id": "promotion",
-        "title": "캐릭터 레벨과 직업 조건을 구분하기",
-        "paragraphs": [
-          "전직 화면에는 여러 조건이 함께 표시됩니다. 캐릭터 레벨만 올리거나 뽑기를 일찍 멈추기보다, 게임 내 전직 조건을 확인한 뒤 필요한 만큼 준비하세요."
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "title": "Prydwen 초보 가이드",
-        "url": "https://www.prydwen.gg/sword-x-staff/guides/beginner-guide"
-      }
-    ]
-  },
-  {
-    "slug": "currency",
-    "title": "루나와 아스트라, 어디에 쓸까?",
-    "englishTitle": "Currency planning",
+    "slug": "food-guide",
+    "title": "음식 가이드: 회복·전투 버프·영구 능력치",
+    "englishTitle": "Food Guide",
     "category": "성장·재화",
-    "summary": "반복 성장과 확실한 목표를 기준으로 재화의 용도를 나누세요.",
+    "summary": "음식마다 다른 효과와 조리법별 효율 감소를 구분해 재료를 사용하세요.",
     "tags": [
-      "루나",
-      "아스트라",
-      "소과금"
-    ],
-    "featured": true,
-    "minutes": 1,
-    "updated": "2026-11-13",
-    "sections": [
-      {
-        "id": "separate",
-        "title": "두 재화를 나눠서 계획하기",
-        "paragraphs": [
-          "아스트라(Luminium)와 루나(Dawnium)를 같은 예산으로 취급하지 마세요. 교환하기 전에는 경매장 구매 후보와 일반 성장에 필요한 루나를 함께 비교하는 편이 좋습니다."
-        ]
-      },
-      {
-        "id": "budget",
-        "title": "지출의 결과를 먼저 정하기",
-        "paragraphs": [
-          "이번 지출로 어떤 보상을 완성할 것인지 생각해보세요. 전직 조건 충족이나 세트 완성처럼 결과가 분명한 목표를 기준으로 삼으면 충동 소비를 줄일 수 있습니다."
-        ],
-        "tips": [
-          "일일 지출과 비상금을 먼저 분리하세요.",
-          "정확한 할인율과 상품 내용은 한국판 화면에서 확인하세요."
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "title": "Rezaj 재화 가이드",
-        "url": "https://www.youtube.com/watch?v=p4b3M6Hy_8g"
-      }
-    ]
-  },
-  {
-    "slug": "sage",
-    "title": "현자: 소환과 침식의 기본",
-    "englishTitle": "Sage build notes",
-    "category": "직업·전투",
-    "summary": "현자와 주술사를 구분하고, 솔로와 파티에 맞는 역할을 준비하세요.",
-    "tags": [
-      "현자",
-      "Sage",
-      "스킬"
-    ],
-    "featured": true,
-    "minutes": 1,
-    "updated": "2026-11-13",
-    "sections": [
-      {
-        "id": "names",
-        "title": "현자는 Sage, 주술사는 Sorcerer",
-        "paragraphs": [
-          "한국판 현자는 영문 Sage에 대응합니다. 영문 자료를 볼 때 Sorcerer와 혼동하지 않도록 직업 경로와 스킬 이름을 함께 대조하세요."
-        ]
-      },
-      {
-        "id": "loadouts",
-        "title": "전투 목적별로 장착 목록 나누기",
-        "paragraphs": [
-          "혼자 진행할 때의 공격 세팅과 파티에서 회복을 맡을 때의 세팅을 구분하세요. 소환수가 쉽게 쓰러지는 상대라면 소환 슬롯을 직접 공격이나 지원 스킬로 교체해 비교할 수 있습니다."
-        ]
-      },
-      {
-        "id": "measure",
-        "title": "같은 조건에서 비교하기",
-        "paragraphs": [
-          "스킬 등급과 상대가 다르면 결과도 달라집니다. 한 번에 한 슬롯만 바꾸고 전투 기록을 비교하면 내 계정에 맞는 조합을 찾기 쉽습니다."
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "title": "Prydwen 현자 빌드",
-        "url": "https://www.prydwen.gg/sword-x-staff/guides/build-guide-sage"
-      }
-    ]
-  },
-  {
-    "slug": "fantomon",
-    "title": "판타몬, 전투 역할과 육성 구분하기",
-    "englishTitle": "Fantomon essentials",
-    "category": "판타몬·파트너",
-    "summary": "출전 능력과 능력치 배치를 구분하고 재료가 겹치지 않게 계획하세요.",
-    "tags": [
-      "판타몬",
-      "공명",
-      "Nyxarchon"
+      "음식",
+      "요리",
+      "영구능력치"
     ],
     "featured": false,
-    "minutes": 1,
-    "updated": "2026-11-13",
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-07-06",
     "sections": [
       {
-        "id": "combat",
-        "title": "어떤 문제를 해결할 것인가",
+        "id": "healing",
+        "title": "진행 중 회복은 음식으로",
         "paragraphs": [
-          "딜이 부족한 전투와 생존이 부족한 전투는 같은 판타몬이 정답이 아닐 수 있습니다. 피콜라(Sylvaerie), 바위룡(Terragon), 철하피(Armopi)의 보조 능력을 확인하고 상황에 맞춰 선택하세요."
+          "필드에서 매번 집까지 돌아가면 진행 시간이 길어집니다. 원문은 집 근처이거나 플레이를 마칠 때를 제외하면 회복 음식을 사용하며 전진하도록 권합니다. 중간에 나갔다 돌아올 수 없는 던전에서는 생존용으로 준비하세요."
         ]
       },
       {
-        "id": "materials",
-        "title": "재료를 기준으로 투자 대상 정하기",
+        "id": "buffs",
+        "title": "버프는 시간이 아니라 전투 횟수로 소모",
         "paragraphs": [
-          "능력 트리 재료와 레벨업 재료를 구분하세요. 같은 재료를 쓰는 판타몬 여러 마리에 깊게 투자하기 전에는 현재 배치와 장기 교체 대상을 함께 정하는 것이 좋습니다."
+          "전투 버프의 남은 횟수는 실제 전투에 들어갈 때 줄어듭니다. 가방에 보관했다고 시간으로 만료되는 방식이 아니므로, 어려운 전투 직전에 사용해 쉬운 잡몹전에서 횟수를 낭비하지 마세요."
+        ]
+      },
+      {
+        "id": "permanent",
+        "title": "영구 효과는 같은 조리법의 섭취 횟수를 확인",
+        "paragraphs": [
+          "해외 가이드의 조리법별 효율은 1~10회 100%, 11~30회 50%, 31~50회 20%, 51회부터 5%입니다. 같은 능력치를 올려도 다른 조리법이면 횟수를 따로 계산하므로 한 음식만 반복하기보다 조리법을 분산하세요."
+        ]
+      },
+      {
+        "id": "priority",
+        "title": "직업에 맞는 능력치부터",
+        "paragraphs": [
+          "원문은 기사에게 방어·체력, 현자에게 체력, 주술사와 듀얼리스트에게 공격을 우선합니다. 속도와 다른 능력치도 배제하지 않습니다. 조리법은 의뢰와 경매장에서 확인하며, 구매 전에는 한국판의 효과·섭취 횟수를 대조하세요."
         ]
       }
     ],
     "sources": [
       {
-        "title": "Purrwikimania 판타몬 능력 트리",
-        "url": "https://www.purrwikimania.com/pet-trees"
+        "title": "Sword x Staff Food Guide · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/food-guide/"
       },
       {
-        "title": "Prydwen 판타몬 가이드",
-        "url": "https://www.prydwen.gg/sword-x-staff/guides/fantomon-guide"
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
       }
     ]
   },
   {
-    "slug": "companions",
-    "title": "파트너 선물과 집중 육성",
-    "englishTitle": "Companion planning",
+    "slug": "season-2-prep",
+    "title": "시즌 2 준비: 비축부터 시작일 행동 순서까지",
+    "englishTitle": "Season 2 Preparation Guide",
+    "category": "이벤트·시즌",
+    "summary": "시즌 전환 직전 보상 수령과 가속 사용 시점을 정리했습니다.",
+    "tags": [
+      "시즌2",
+      "비축",
+      "가속"
+    ],
+    "featured": false,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-07-01",
+    "sections": [
+      {
+        "id": "stockpile",
+        "title": "시즌 목표를 달성했다면 비축 시작",
+        "paragraphs": [
+          "해외 공략은 재료 비경 도구와 일일 임무에 필요한 양을 제외한 스태미나를 모으고, Champion I 승급을 준비하도록 권합니다. 판매 가치가 사라지는 잔여 조각은 전환 전에 처분하되, 한국판의 만료 안내를 먼저 확인하세요."
+        ]
+      },
+      {
+        "id": "countdown",
+        "title": "마지막 36시간과 하루 전",
+        "paragraphs": [
+          "원문 기준 시작 36시간 전부터 침대 경험치를 받지 않고 자동 수령도 끕니다. 하루 전에는 던전 보상 수령을 보류하고 도전 횟수를 최대 6회까지 준비합니다. 서버별 누적 상한과 수령 기한이 같을 때 적용하세요."
+        ]
+      },
+      {
+        "id": "launch",
+        "title": "시작일에는 진행부터 밀기",
+        "paragraphs": [
+          "시즌 보상 수령과 Astral Pact의 Primo Stars 사용을 확인한 뒤, 가속 없이 진행할 수 있는 만큼 먼저 전진합니다. 막힌 시점에 유물 뽑기와 가속 사용을 검토하세요. 시즌 재화의 실제 사용 기한은 게임 화면을 우선합니다."
+        ]
+      },
+      {
+        "id": "milestones",
+        "title": "가속을 쓰는 기준은 콘텐츠 해금",
+        "paragraphs": [
+          "해외판 예시는 106레벨 T4, 108레벨 성체 판타몬, 116레벨 탑, 130레벨 두 번째 던전입니다. 지역 개방 준비물은 관문 열쇠 5개, Water Mine 2개, Magic Drill 1개, Withering Potion 1개, 신규 시즌 아이템 7개로 제시됩니다. 한국판 명칭·요구량은 별도 확인하세요."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Season 2 Preparation Guide · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/season-2-prep/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "reroll-guide",
+    "title": "리세마라: 시작할 가치와 멈출 기준",
+    "englishTitle": "Reroll Guide",
+    "category": "초보자",
+    "summary": "서버 선택의 비용을 먼저 따지고, 마법사·전사별 초반 목표를 정하세요.",
+    "tags": [
+      "리세마라",
+      "마법사",
+      "전사"
+    ],
+    "featured": false,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "decision",
+        "title": "함께할 서버가 있다면 계속 진행",
+        "paragraphs": [
+          "원문은 대부분의 유저에게 리세마라보다 기존 계정 진행을 권합니다. 서버 정원 때문에 친구·길드가 있는 서버로 돌아가지 못할 수 있고, 초반 뽑기 이점도 일일 보상으로 줄어들기 때문입니다."
+        ]
+      },
+      {
+        "id": "mage",
+        "title": "마법사라면 Water Assault 중심",
+        "paragraphs": [
+          "주요 목표는 광역·다중 타격의 Water Assault입니다. Water to Ice와의 연계, Gale Shield의 생존력, Mana Surge의 범용 치명타 효과도 평가합니다. 스킬 한국명이 다르면 영문명과 효과를 함께 대조하세요."
+        ]
+      },
+      {
+        "id": "warrior",
+        "title": "전사라면 Heavy Impact 우선",
+        "paragraphs": [
+          "단일 보스용 Heavy Impact가 핵심 목표입니다. 광역용 Mountain Collapse·Whirlwind Slash, 흡혈용 Blade of Lament, 패시브 Counter Blade도 후보입니다. Mountain Collapse는 밀쳐내기로 후속 광역기를 방해할 수 있어 뒤에 배치하도록 권합니다."
+        ]
+      },
+      {
+        "id": "stop",
+        "title": "목표와 보조 스킬을 얻었다면 종료",
+        "paragraphs": [
+          "원문 기준 한 시도는 약 15~20분입니다. 목표 스킬 하나와 연계 카드 하나, 또는 쓸 만한 후보 세 개를 얻었다면 더 완벽한 결과를 쫓지 않는 쪽을 권합니다. 채택할 계정은 게스트 상태로 두지 말고 계정 연동을 완료하세요."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Reroll Guide · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/reroll-guide/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "important-tips",
+    "title": "성장 핵심 팁: 생산·유물·판타몬 투자",
+    "englishTitle": "Important Tips",
+    "category": "성장·재화",
+    "summary": "목재·석재, 공명 최저 레벨, 영구 성장에 투자하는 기준을 살펴보세요.",
+    "tags": [
+      "목재",
+      "석재",
+      "공명"
+    ],
+    "featured": true,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "cart",
+        "title": "생산 기반은 목재와 석재부터",
+        "paragraphs": [
+          "원문 우선순위는 목재·석재, 그다음 시간의 모래·원석입니다. Rolla는 상점 갱신 빈도에 맞춰 조정합니다. 생산을 고르게 올리기보다 병목 자원을 정해 집중하는 접근입니다."
+        ]
+      },
+      {
+        "id": "fantomon",
+        "title": "능력치 배치와 전투 출전을 따로 판단",
+        "paragraphs": [
+          "해외 가이드는 주 능력치 슬롯 100%, 보조 세 슬롯 50%, 나머지 보유 판타몬 20%의 능력치 반영을 설명합니다. 공명은 배치한 네 마리의 최저 레벨이 기준이므로 한 마리만 뒤처지지 않게 육성하세요."
+        ]
+      },
+      {
+        "id": "relics",
+        "title": "한 속성의 네 유물을 함께 성장",
+        "paragraphs": [
+          "같은 속성의 공명용 네 유물을 같은 레벨로 맞춰 다른 유물의 성장도 끌어올리는 방식입니다. 무·소과금은 여러 속성에 재료를 나누기 전에 주력 속성부터 완성하는 편을 권합니다."
+        ]
+      },
+      {
+        "id": "season",
+        "title": "시즌 전투력과 영구 성장을 구분",
+        "paragraphs": [
+          "보석은 세부 종류보다 티어 상승의 차이가 크다고 설명합니다. 혼돈 침공 뒤 방문하는 NPC에서는 Chaos Crystals를 Primal Forge 목표에 모으도록 권합니다. 원문의 직업·속성 평가는 당시 해외 패치 기준이므로 한국 서버의 확정 티어로 적용하지 마세요."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Important Tips · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/important-tips/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "gacha-and-pity",
+    "title": "뽑기·천장: 스킬·유물·판타몬별 예산",
+    "englishTitle": "Gacha & Pity Reference",
+    "category": "성장·재화",
+    "summary": "서로 다른 뽑기 재화와 신화 판타몬 진화까지 필요한 비용을 구분하세요.",
+    "tags": [
+      "뽑기",
+      "천장",
+      "판타몬"
+    ],
+    "featured": true,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "standard",
+        "title": "일반 스킬 뽑기의 기준",
+        "paragraphs": [
+          "해외 가이드의 기본 확률은 전설 1%, 영웅 7%, 희귀 22%입니다. 보장은 10회 희귀 이상, 30회 영웅 이상, 70회 전설이며, 200회 누적 보상은 T1 전설 선택권으로 설명합니다. 한국판 배너의 확률표와 누적 조건을 먼저 대조하세요."
+        ]
+      },
+      {
+        "id": "premium",
+        "title": "전용 뽑기와 교환권을 구분",
+        "paragraphs": [
+          "Stellatie는 일반 뽑기에, Covenite는 직업 대상의 전용 뽑기에 사용됩니다. 원문은 초반 Skill Shard Voucher를 T1·T2에 바로 소모하기보다 이후 전직 스킬 확보에 남기도록 권합니다."
+        ]
+      },
+      {
+        "id": "relics",
+        "title": "유물은 수집 진행도로 중단 시점 판단",
+        "paragraphs": [
+          "왕국별 도감 약 50~70% 확보 후 다음 뽑기로 넘어가는 것이 원문의 경험적 기준입니다. 이 수치는 보장 규칙이 아닙니다. 공명과 필요한 세트가 완성되는지를 함께 보세요."
+        ]
+      },
+      {
+        "id": "fantomon-budget",
+        "title": "신화 한 마리와 진화 완료 비용은 다름",
+        "paragraphs": [
+          "판타몬은 SSR 0.8%, 전설 보장 80회로 소개됩니다. Bond Trinkets는 뽑기권, Summon Crystals는 뽑기로 얻는 교환 재화입니다. 신화 한 개체는 결정 60개지만 진화에는 중복 한 개체가 더 필요해 합계 120개를 목표로 잡습니다. 성체 조건인 108레벨·Nimbuville 해금도 별도입니다."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Gacha & Pity Reference · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/gacha-and-pity/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "grand-treasure-hunt",
+    "title": "대보물찾기: 에너지를 모아 5단계 보상까지",
+    "englishTitle": "Grand Treasure Hunt",
+    "category": "이벤트·시즌",
+    "summary": "하위 보상을 매번 사기 전에 목표 회차의 5단계 도달 비용을 계산하세요.",
+    "tags": [
+      "보물찾기",
+      "이벤트",
+      "유물"
+    ],
+    "featured": false,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "reserve",
+        "title": "이번 회차에 끝까지 갈 수 있는지부터",
+        "paragraphs": [
+          "Aurodrasil Energy는 회차를 넘겨 비축할 수 있습니다. 원문은 1~5단계 보상 확보에 약 3,240 에너지가 필요하다고 보고, 부족한 회차에는 하위 단계에서도 소비하지 않도록 권합니다."
+        ]
+      },
+      {
+        "id": "cadence",
+        "title": "무과금의 선택은 2~3주 단위 비축",
+        "paragraphs": [
+          "해외 공략의 예시는 2주에 약 4,440으로 5단계 보상 두 개, 3주에 약 5,640으로 전체 보상입니다. 시즌 2 Loong Haven 이후 수급이 달라질 수 있어 고정 주기보다 실제 잔고와 비용을 우선하세요."
+        ]
+      },
+      {
+        "id": "rewards",
+        "title": "5단계는 고유 유물을 우선",
+        "paragraphs": [
+          "원문 화면의 선택 순서는 왼쪽, 맨 오른쪽, 가운데입니다. 왼쪽의 고유 유물을 최우선으로 보되, 한국판에서는 위치보다 보상 이름을 확인하세요. Lucky Statue는 던전 추가 드롭, Primal Gem은 보석 수급과 관련된 유물로 소개됩니다."
+        ]
+      },
+      {
+        "id": "lower-tiers",
+        "title": "1~4단계는 계정 목표에 맞추기",
+        "paragraphs": [
+          "첫 신화 판타몬이 목표라면 Bond Trinkets, 부족한 전설 유물이 목표라면 Auroral Badges를 비교합니다. 원문은 4단계 Stellatie 구매를 낮게 평가합니다. 이벤트 회차 번호와 보상 배치는 한국 서버 일정과 다를 수 있습니다."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Grand Treasure Hunt · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/grand-treasure-hunt/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "destiny-fruit",
+    "title": "운명의 열매: 부족한 유물을 지정해서 탐색",
+    "englishTitle": "Destiny Fruit Guide",
+    "category": "탐험",
+    "summary": "유물 도감의 획득 위치를 확인해 필요한 세트의 빈칸을 채우세요.",
+    "tags": [
+      "운명의열매",
+      "운명탐색",
+      "유물도감"
+    ],
+    "featured": false,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "purpose",
+        "title": "무작위 장소보다 필요한 유물부터",
+        "paragraphs": [
+          "원문이 강조하는 용도는 Destiny Exploration을 통한 유물 보완입니다. 어느 지역에서든 무작정 열매를 쓰기보다, 실제로 필요한 세트에서 빠진 유물을 먼저 정하세요."
+        ]
+      },
+      {
+        "id": "steps",
+        "title": "도감에서 장소를 확인하는 순서",
+        "paragraphs": [
+          "해당 왕국의 유물 도감을 열고 미보유 항목을 선택합니다. 상세 정보의 Source에서 Destiny Exploration 위치를 찾은 뒤 그 구역으로 이동하세요. 소비 확인창의 위치와 열매 비용을 읽고 실행합니다."
+        ]
+      },
+      {
+        "id": "timing",
+        "title": "뽑기가 둔해진 뒤 도감 빈칸 정리",
+        "paragraphs": [
+          "도감 약 70%는 원문이 제시한 전환 시점의 참고값입니다. 특히 희귀·영웅 유물이 하나 부족해 3세트에서 4세트로 넘어가지 못하는 경우처럼, 확보 결과가 분명한 목표를 우선합니다. 탐색은 확정 획득이 아니므로 비용 대비 효율도 확인하세요."
+        ]
+      },
+      {
+        "id": "other-uses",
+        "title": "지역 개방용 지출과 예산 나누기",
+        "paragraphs": [
+          "왕국 상점의 덩굴 제거 도구·열쇠·드릴 등에도 사용합니다. 열매는 계정 공용이지만 유물 도감과 탐색 장소는 왕국별로 다릅니다. 이 글은 모든 계정에 동일한 비축 수량을 제시하지 않으므로, 필요한 탐색과 실제 지역 개방 비용으로 예산을 잡으세요."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Destiny Fruit Guide · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/destiny-fruit/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "dps-dummy-test",
+    "title": "DPS 측정: 스킬 테스트로 내 세팅 비교하기",
+    "englishTitle": "DPS Dummy Test",
+    "category": "직업·전투",
+    "summary": "동일한 조건에서 반복 측정하고 보스전과 다수전 결과를 나눠 읽으세요.",
+    "tags": [
+      "DPS",
+      "허수아비",
+      "스킬테스트"
+    ],
+    "featured": false,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "Keripo",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "setup",
+        "title": "40레벨 이후 스킬 테스트 활용",
+        "paragraphs": [
+          "원문 기준 스킬 테스트는 40레벨에 열립니다. 캐릭터의 스킬 화면에서 Test를 선택하고 보스, 50라운드, 무제한 체력, 낮은 피해로 설정하는 방법을 소개합니다."
+        ]
+      },
+      {
+        "id": "method",
+        "title": "한 번에 한 조건만 변경",
+        "paragraphs": [
+          "전용 세팅에 기술 하나만 장착해 개별 성능을 측정한 뒤 실제 조합을 비교하세요. 장비·능력치·부적 조건을 유지하고 여러 번 재측정해 치명타나 발동 운의 영향을 줄입니다. 보스 단독과 보스·잡몹 혼합 구성을 둘 다 시험하세요."
+        ]
+      },
+      {
+        "id": "charms",
+        "title": "부적 조건이 결과를 크게 바꿈",
+        "paragraphs": [
+          "Keripo의 주술사 실험은 Water to Ice, Unstable Aura, Elemental Mastery를 함께 사용합니다. 금색 Elemental Mastery의 1,270 숙련을 피해 약 31.75% 증가로 설명하므로, 부적을 빼고 기술 순위만 비교하면 전제가 달라집니다."
+        ]
+      },
+      {
+        "id": "scope",
+        "title": "주술사 실험 결과를 다른 직업에 복사하지 않기",
+        "paragraphs": [
+          "원문은 Wind’s Delight와 Water Assault의 다중 타격을 높이 평가하고, Water Shot은 단일 보스에 적합하다고 봅니다. 이는 주술사 실험 결과입니다. 허수아비에는 속성이 없어 실제 적과의 속성 상성 보너스가 반영되지 않으므로, 다른 속성·직업 간 절대 비교는 주의하세요."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff DPS Dummy Test · Keripo",
+        "url": "https://eog.gg/games/sword-x-staff/guides/dps-dummy-test/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "void-rifts",
+    "title": "공허 균열: 도전 횟수와 파티 운영",
+    "englishTitle": "Void Rifts",
+    "category": "이벤트·시즌",
+    "summary": "한정된 입장 시간을 놓치지 않고 안정적으로 높은 층까지 진행하세요.",
+    "tags": [
+      "공허균열",
+      "파티",
+      "도전횟수"
+    ],
+    "featured": false,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-30",
+    "sections": [
+      {
+        "id": "schedule",
+        "title": "해외판은 격주 일요일 이벤트",
+        "paragraphs": [
+          "원문은 혼돈 침공과 번갈아 열리며, 등장 후 24시간 안에 10회 도전하는 구조로 설명합니다. 횟수는 다음 회차로 이월되지 않습니다. 한국 서버의 개최일과 종료 시각은 이벤트 화면에서 확인하세요."
+        ]
+      },
+      {
+        "id": "floors",
+        "title": "처치 성공과 다음 층 진입은 별개",
+        "paragraphs": [
+          "최대 5층이며, 한 층을 클리어해도 다음 층 진행은 확률로 결정됩니다. 진입한 지역은 보상에 영향을 주지 않고, 다른 플레이어가 이용 중인 균열은 다음 표식으로 이동하도록 권합니다."
+        ]
+      },
+      {
+        "id": "party",
+        "title": "역할을 정하고 회복하며 진행",
+        "paragraphs": [
+          "권장 예시는 회복 담당 1명, 튼튼한 전열 1명, 딜러 2명입니다. 층 사이에 체력을 회복하고 잡몹·정예 구성에 따라 광역과 단일 세팅을 바꾸세요. 고투자 계정 외에는 파티 플레이를 우선하는 접근입니다."
+        ]
+      },
+      {
+        "id": "goal",
+        "title": "5층만을 성공 기준으로 삼지 않기",
+        "paragraphs": [
+          "원문은 3~4층까지 안정적으로 진행하는 목표를 제시합니다. 클리어 층수가 높을수록 보상 규모가 커지며, 높은 층에서는 신화 등급까지 등장할 수 있습니다. 확률 진행과 보상 편차를 한 번의 결과만으로 판단하지 마세요."
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sword x Staff Void Rifts · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/void-rifts/"
+      },
+      {
+        "title": "Valkyrie 가이드 목록",
+        "url": "https://valkyrie.tips/guides"
+      }
+    ]
+  },
+  {
+    "slug": "companion-upgrade",
+    "title": "파트너 육성: 전체 20부터 직업별 집중 투자",
+    "englishTitle": "Companion Upgrade Guide",
     "category": "판타몬·파트너",
-    "summary": "좋아하는 선물과 친밀도 보너스를 비교해서 육성 대상을 정하세요.",
+    "summary": "20·50·70·100레벨의 능력치 구간을 기준으로 선물과 재료를 배분하세요.",
     "tags": [
       "파트너",
-      "선물",
-      "친밀도"
+      "20레벨",
+      "100레벨"
     ],
-    "featured": false,
-    "minutes": 1,
-    "updated": "2026-11-13",
+    "featured": true,
+    "minutes": 2,
+    "updated": "2026-11-17",
+    "sourceAuthor": "EOG",
+    "sourcePublished": "2026-05-22",
     "sections": [
+      {
+        "id": "order",
+        "title": "전체 20 → 필요한 파트너 50 → 70·100",
+        "paragraphs": [
+          "원문은 과금 규모와 관계없이 보유 파트너 전체의 첫 능력치 구간을 연 뒤, 직업에 맞는 대상에 집중하도록 권합니다. 한 명을 100까지 올리는 동안 나머지를 낮은 레벨에 방치하지 않는 방식입니다."
+        ]
+      },
+      {
+        "id": "breakpoints",
+        "title": "70은 20, 100은 50의 능력치 반복",
+        "paragraphs": [
+          "20레벨의 피해 증가·피해 감소로 공격형과 방어형을 구분합니다. 50레벨 이후 얻는 세부 능력치를 보고 투자 대상을 고르세요. 60레벨은 스킨 해금 구간으로, 전투 능력치 목표와 구분합니다."
+        ]
+      },
+      {
+        "id": "classes",
+        "title": "직업과 역할에 맞는 능력치 선택",
+        "paragraphs": [
+          "기사(Knight)는 막기, 주술사(Sorcerer)·듀얼리스트는 치명타를 우선하며 명중을 보완합니다. 공격·지속 피해 현자(Sage)는 명중과 치명타, 회복 역할 현자는 회복 증가를 목표로 제시합니다. 원문은 회복 증가의 핵심 해금이 100레벨이라고 강조합니다."
+        ]
+      },
       {
         "id": "gifts",
-        "title": "좋아하는 선물부터 확인",
+        "title": "선물 전에 상세 정보를 확인",
         "paragraphs": [
-          "파트너의 선물 취향과 다음 보너스를 함께 확인하세요. 특정 파트너를 무조건 끝까지 올리기보다는 선물 종류마다 현재 목표를 정해두면 관리하기 편합니다."
-        ]
-      },
-      {
-        "id": "role",
-        "title": "딜과 회복 중 무엇을 보완할까",
-        "paragraphs": [
-          "캐릭터의 전투 역할에 필요한 능력치를 기준으로 파트너를 고르세요. 전투 출전 스킬과 친밀도로 얻는 능력치 보너스는 별도로 확인해야 합니다."
+          "게임 내 느낌표에서 해당 파트너의 선호 선물과 단계별 보너스를 확인하세요. 한국판 이름이나 콜라보 파트너를 영문 추천과 바로 연결하지 말고, 필요한 능력치를 실제로 주는 대상인지 대조한 뒤 선물을 집중하세요."
         ]
       }
     ],
     "sources": [
       {
-        "title": "Valkyrie 파트너 데이터베이스",
-        "url": "https://valkyrie.tips/database/companions"
-      }
-    ]
-  },
-  {
-    "slug": "maps",
-    "title": "숲·바위 나라 탐험 지도 활용법",
-    "englishTitle": "Exploration maps",
-    "category": "탐험",
-    "summary": "구역 연결과 필요한 도구를 확인하고, 남은 탐험 구역을 정리하세요.",
-    "tags": [
-      "지도",
-      "숲의나라",
-      "열쇠"
-    ],
-    "featured": false,
-    "minutes": 1,
-    "updated": "2026-11-13",
-    "sections": [
-      {
-        "id": "map",
-        "title": "영문 지역명으로 지도 찾기",
-        "paragraphs": [
-          "숲의 나라는 Verdantglade, 바위의 나라는 Cinder Ridge입니다. 지도에서 주변 구역과 관문을 먼저 확인한 뒤 한국판 미니맵과 비교하세요."
-        ]
+        "title": "Sword x Staff Companion Upgrade Guide · EOG",
+        "url": "https://eog.gg/games/sword-x-staff/guides/companion-upgrade/"
       },
       {
-        "id": "key",
-        "title": "열쇠 사용 전 확인할 것",
-        "paragraphs": [
-          "필요한 도구, 안쪽 구역, 여신상 보상을 구분해서 살펴보세요. 지역별 열쇠 회수량을 검증하지 못했다면 확정 보상으로 취급하지 않는 것이 좋습니다."
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "title": "Purrwikimania 전체 지도",
-        "url": "https://www.purrwikimania.com/maps"
-      }
-    ]
-  },
-  {
-    "slug": "cart",
-    "title": "목재·석재부터 시작하는 생산 계획",
-    "englishTitle": "Cart progression",
-    "category": "성장·재화",
-    "summary": "전체 생산시설을 키우는 기반과 직접 강화 재료를 함께 관리하세요.",
-    "tags": [
-      "수레",
-      "목재",
-      "석재"
-    ],
-    "featured": false,
-    "minutes": 1,
-    "updated": "2026-11-13",
-    "sections": [
-      {
-        "id": "foundation",
-        "title": "생산을 키우는 재료",
-        "paragraphs": [
-          "목재와 석재는 여러 생산시설의 업그레이드에 쓰이는 기반 자원입니다. 직접 전투력을 높이는 강화 재료와 함께 장기 생산량도 살펴보세요."
-        ]
-      },
-      {
-        "id": "review",
-        "title": "부족한 자원을 주기적으로 재점검",
-        "paragraphs": [
-          "하나의 우선순위를 계속 고집하기보다는 다음 강화에 필요한 양과 시간당 생산량을 비교하세요. 지역이 바뀌거나 목표가 달라지면 예산도 조정하면 됩니다."
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "title": "Prydwen 생산시설 가이드",
-        "url": "https://www.prydwen.gg/sword-x-staff/guides/beginner-guide"
-      }
-    ]
-  },
-  {
-    "slug": "reading-guides",
-    "title": "해외 가이드를 한국판에 적용하는 법",
-    "englishTitle": "Reading global guides",
-    "category": "초보자",
-    "summary": "서버 일차와 시즌, 번역 명칭을 확인해 공략의 적용 범위를 구분하세요.",
-    "tags": [
-      "시즌",
-      "영문명",
-      "공략읽기"
-    ],
-    "featured": false,
-    "minutes": 1,
-    "updated": "2026-11-13",
-    "sections": [
-      {
-        "id": "context",
-        "title": "공략의 전제 확인",
-        "paragraphs": [
-          "공략 작성 당시의 시즌과 전직 단계, 과금 수준을 먼저 보세요. 최신 날짜가 적힌 글도 오래된 서버 기준일 수 있습니다."
-        ]
-      },
-      {
-        "id": "translation",
-        "title": "이름보다 효과로 대조하기",
-        "paragraphs": [
-          "현지화 이름이 다르면 스킬 효과와 아이콘을 함께 비교하세요. 한국명이 검증되지 않은 항목은 영문명을 남겨두는 편이 잘못 연결하는 것보다 낫습니다."
-        ]
-      },
-      {
-        "id": "source",
-        "title": "원문으로 돌아갈 수 있게 기록하기",
-        "paragraphs": [
-          "공략을 정리할 때는 원문 링크와 확인 날짜를 남기세요. 전체 번역인지, 요약인지, 직접 판단한 내용인지 구분하면 이후 변경 사항도 추적하기 쉽습니다."
-        ]
-      }
-    ],
-    "sources": [
-      {
-        "title": "Valkyrie 가이드 모음",
+        "title": "Valkyrie 가이드 목록",
         "url": "https://valkyrie.tips/guides"
       }
     ]

@@ -10,6 +10,6 @@ export const metadata: Metadata = {
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return <html lang="ko"><body><a className="skip" href="#main">본문으로 이동</a><Shell>{children}</Shell>
-    <footer><span>✦ 소드노트 <small>독립 팬 가이드 · 첫 버전</small></span><div><Link href="/about">출처·운영 안내</Link><a href="https://valkyrie.tips/guides" target="_blank" rel="noreferrer">Valkyrie 원문 ↗</a></div></footer>
+    <footer><span>✦ 소드노트 <small>Valkyrie 가이드 한국어 정리</small></span><div><Link href="/about">출처·운영 안내</Link><a href="https://valkyrie.tips/guides" target="_blank" rel="noreferrer">Valkyrie 원문 ↗</a></div></footer>
   </body></html>;
 }

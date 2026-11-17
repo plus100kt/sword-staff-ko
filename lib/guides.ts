@@ -2,11 +2,12 @@ import data from '@/content/guides.json';
 export type Guide = {
   slug: string; title: string; englishTitle: string; category: string; summary: string;
   tags: string[]; featured: boolean; minutes: number; updated: string;
+  sourceAuthor: string; sourcePublished: string;
   sections: { id: string; title: string; paragraphs: string[]; tips?: string[] }[];
   sources: { title: string; url: string }[];
 };
 export const guides: Guide[] = data;
-export const categories = ['전체', '초보자', '성장·재화', '직업·전투', '판타몬·파트너', '탐험'];
+export const categories = ['전체', '초보자', '성장·재화', '직업·전투', '판타몬·파트너', '탐험', '이벤트·시즌'];
 export const glossary = [
   ['현자', 'Sage', '회복·소환·지속 피해 계열'],
   ['주술사', 'Sorcerer', '직접 원소 공격 계열'],
